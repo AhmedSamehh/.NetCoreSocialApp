@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj": {}
+    "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj": {
+    "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
+        "projectPath": "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\a7med\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\Fullstack\\SocialApp\\API\\obj\\",
+        "outputPath": "D:\\Projects\\Fullstack\\SocialApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a7med\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +40,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.10, )"

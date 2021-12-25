@@ -1,0 +1,6 @@
+{
+    "csharpextensions.useThisForCtorAssignments": false,
+//     "files.exclude": {
+//         "**/.git": false
+//    }
+}
