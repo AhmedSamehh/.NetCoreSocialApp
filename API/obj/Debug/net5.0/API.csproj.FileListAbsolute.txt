@@ -63,3 +63,4 @@ D:\Projects\Fullstack\SocialApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Jso
 D:\Projects\Fullstack\SocialApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Projects\Fullstack\SocialApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Projects\Fullstack\SocialApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Fullstack\SocialApp\API\bin\Debug\net5.0\Data\UserSeedData.json
