@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "28Lk2SL11GPAG5ZVubc174t6Nm5y+h4PFGp3w2t52lOeX2bk0QXYEyvhvvKYm0KhUPOYEvQ0OC7FM9NydmbVww==",
+  "dgSpecHash": "tDwDIL3cjuRUuHTV2EUtU1bK7VCMWg8DzgiP5KMvX1fDOxNa3MY/G77MsFwY8TGxxWQIkborh7rPFlt7VWqkxQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\a7med\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\a7med\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -88,6 +90,7 @@
     "C:\\Users\\a7med\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\a7med\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
