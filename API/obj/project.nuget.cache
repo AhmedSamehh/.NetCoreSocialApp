@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rBeccoojO46NXsTd1Y3B41Gg1/DDqWG4QwIbZOgEnxKdYIlxwh1bSXOH0IMIQ9GX+vOsfMVZhIveAZewCEINA==",
+  "dgSpecHash": "rdbNJMrERe2378SCycjvVmrvhVgFF2GFR5D+zI0I3Hoz0iKvfJVrkuT+MYCXfQQnue1lC5IUWJTLCqcs820aAQ==",
   "success": true,
-  "projectFilePath": "d:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
+  "projectFilePath": "D:\\Projects\\Fullstack\\SocialApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a7med\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\a7med\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
