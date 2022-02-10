@@ -13,7 +13,13 @@ namespace API.Helpers
             int itemsPerPage, int totalItems, int totalPages)
         {   
             var PaginationHeader = new PaginationHeader(currentPage, itemsPerPage, totalItems, totalPages);
-            response.Headers.Add("Pagination", JsonSerializer.Serialize(PaginationHeader));
+
+            var options = new JsonSerializerOptions
+            {
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            };
+
+            response.Headers.Add("Pagination", JsonSerializer.Serialize(PaginationHeader, options));
             response.Headers.Add("Access-Control-Expose-Headers", "Pagination");
         }
     }
