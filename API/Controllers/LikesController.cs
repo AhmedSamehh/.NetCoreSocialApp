@@ -22,7 +22,7 @@ namespace API.Controllers
             _likesRepository = likesRepository;
         }
 
-        [HttpPost("Username")]
+        [HttpPost("{username}")]
         public async Task<ActionResult> AddLike(string username)
         {
             var sourceUserId = User.GetUserId();
